@@ -1,7 +1,7 @@
 # Today
 1.Learning markdown
 
-2.git(指令學習)
+2.git()
 
 3.Ubuntu
 
